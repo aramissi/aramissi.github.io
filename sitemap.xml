@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/commonweal/index.html</loc>
+    
+    <lastmod>2017-05-29T08:22:45.292Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2017-05-29T08:20:36.598Z</lastmod>
