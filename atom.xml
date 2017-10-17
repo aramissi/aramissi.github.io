@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>小时候可俊了</title>
+  <title>鸦不渡</title>
   <subtitle>C&#39;est la vie</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-12T08:33:28.538Z</updated>
+  <updated>2017-10-16T03:37:25.673Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>「非暴力沟通」读书笔记</title>
-    <link href="http://yoursite.com/2017/06/06/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A/"/>
-    <id>http://yoursite.com/2017/06/06/非暴力沟通/</id>
-    <published>2017-06-06T11:36:26.132Z</published>
-    <updated>2017-10-12T08:33:28.538Z</updated>
+    <link href="http://yoursite.com/2017/07/27/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A/"/>
+    <id>http://yoursite.com/2017/07/27/非暴力沟通/</id>
+    <published>2017-07-27T10:11:25.000Z</published>
+    <updated>2017-10-16T03:37:25.673Z</updated>
     
     <content type="html"><![CDATA[<p>推荐阅读：★★★★★</p>
 <p>豆瓣评分：8.5/5549人评分</p>
@@ -47,8 +47,12 @@
     
     </summary>
     
+      <category term="读书笔记" scheme="http://yoursite.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
     
       <category term="沟通" scheme="http://yoursite.com/tags/%E6%B2%9F%E9%80%9A/"/>
+    
+      <category term="读书笔记" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
